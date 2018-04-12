@@ -11,6 +11,6 @@ Next step in upgrade program is create jUnit test, abandonment openoffice data s
 Another big problem is non clean code in current version (to long methods, class, bad naming).
 Because update current version, require a lot of changes, data of next release is unknown. Meantime you can see my progress in repository with task from hackerranked or different project (in future).
 
-## About respository
+## Contact
 If you I have some question or remarks about my project, please sand mail:
 fsgithub@gmail.com
